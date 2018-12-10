@@ -28,6 +28,16 @@ C/C++ language:
    - [x] 5. Longest Palindromic SubString
 - [ ] hard
    - [x] 4. Median Of Two Sroted Array
+
+***
+JavaScript language:
+- [ ] simple
+   - [x]  1. Two Sum
+   
+***
+Java language:
+- [ ] simple
+   - [x]  1. Two Sum
    
 Please contact with me: </br>
 :e-mail: <ilhanwnz@hotmail.com>
