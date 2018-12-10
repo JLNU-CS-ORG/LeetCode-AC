@@ -1,7 +1,17 @@
 # leetcode documents
 This repository is answer of leetcode, it have three dircetory divide to different level.</br>
 It will update every day, only if i forgot it.
+
+Other members also can commit your code in this repository. </br>
+If you don't know what is "leetcode", </br>
+that you can visit website: www.leetcode.com or www.leetcode-cn.com (China).</br>
+You can solve the problem in any programming language, such as C, C++, Java, JavaScript, etc. 
+
+If you commited code in this repository, that you must be update this README.md file.(Must use this format to update)</br>
+If you have enough format for this README.md, that you can contact me, email link at end of file.
+
 ***
+C/C++ language:
 - [ ] simple
    - [x]  1. Two Sum
    - [x]  7. Reverse Integer
