@@ -33,7 +33,7 @@ C/C++ language:
 JavaScript language:
 - [ ] simple
    - [x]  1. Two Sum
-   
+   - [x]  7. Reverse Integer   
 ***
 Java language:
 - [ ] simple
