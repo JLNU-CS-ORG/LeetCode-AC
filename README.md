@@ -38,6 +38,6 @@ JavaScript language:
 Java language:
 - [ ] simple
    - [x]  1. Two Sum
-   
+   - [x]  7. Reverse Integer   
 Please contact with me: </br>
 :e-mail: <ilhanwnz@hotmail.com>
