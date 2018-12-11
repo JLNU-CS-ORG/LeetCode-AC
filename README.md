@@ -8,7 +8,7 @@ that you can visit website: www.leetcode.com or www.leetcode-cn.com (China).</br
 You can solve the problem in any programming language, such as C, C++, Java, JavaScript, etc. 
 
 If you commited code in this repository, that you must be update this README.md file.(Must use this format to update)</br>
-If you have enough format for this README.md, that you can contact me, email link at end of file.
+If you have better one format for this README.md, that you can contact me with email link at end of file.
 
 ***
 C/C++ language:
